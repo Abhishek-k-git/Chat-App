@@ -5,7 +5,7 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
 
-#### Realtime chat app in mern
+#### Realtime chat application using socket.io
 [<img src="https://img.shields.io/badge/Mongodb-25D366?style=for-the-badge&logo=mongodb&logoColor=white"/>](mongodb)
 [<img src="https://img.shields.io/badge/Express-3C3C3D?style=for-the-badge&logo=Express&logoColor=white"/>](express)
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>](react)
