@@ -13,9 +13,6 @@
 [<img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />](socket.io)
 
 
-<div style="width: 100%;">
-  <img src="https://github.com/Abhishek-k-git/Image/blob/main/Chat-app-2.png" alt="chat app" width="30%"/>
-  <img src="https://github.com/Abhishek-k-git/Image/blob/main/Chat-app-1.png" alt="chat app" width="60%" />
-</div>
+![chat app](https://github.com/Abhishek-k-git/Image/blob/main/chat%20app.png)
 
 View app [live](https://my-chating-app-socket-io.herokuapp.com)
