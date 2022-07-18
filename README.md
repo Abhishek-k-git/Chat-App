@@ -15,4 +15,8 @@
 
 ![chat app](https://github.com/Abhishek-k-git/Image/blob/main/chat%20app.png)
 
+```diff
+- Time may alter, because this project is running on different time-zone
+```
+
 View app [live](https://my-chating-app-socket-io.herokuapp.com)
